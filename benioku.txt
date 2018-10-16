@@ -1,0 +1,2 @@
+1- Her seferinde tek sipariş hazırlayıp irsaliyesini kesersek daha az hatayla karşılaşırız.
+2- Hazırlanan sipariş irsaliye kesilemez ise yönetim panelinden silinmesi unutulmamalıdır.
